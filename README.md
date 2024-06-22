@@ -1,5 +1,7 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=89cff0&height=300&section=header&desc=equis3351%20Github&descAlignY=75&descAlign=60&text=Welcome!&fontColor=ffffff&fontSize=70)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgaeun7&count_bg=%23D2B0FF&title_bg=%2393ADFF&icon=datadog.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/equis3351)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
