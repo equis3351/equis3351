@@ -37,8 +37,6 @@
 
 <br>
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=equis3351&show_icons=true&theme=gotham)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=equis3351&show_icons=true&theme=gotham)
 
 <br>
