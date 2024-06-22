@@ -33,10 +33,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=equis3351&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br> 
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
 <br>
 
 </div>
