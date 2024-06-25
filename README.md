@@ -22,7 +22,7 @@
 
 <img src="https://img.shields.io/badge/Android Studio-5C2D91?style=for-the-badge&logo=Android Studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=for-the-badge&logo=Eclipse&logoColor=white"/> 
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logoIntelliJIDEA&logoColor=white"/> 
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logoIntelliJIDEA&logoColor=white"/> 
 
 <br>
 
